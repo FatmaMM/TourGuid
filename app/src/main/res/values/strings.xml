@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Tour Guide in Egypt</string>
+    <string name="Assiut">Assiut</string>
+    <string name="Aswan">Aswan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_historical_places">Interest Places</string>
+    <!--Parks-->
+    <string name="parks">Parks</string>
+    <string name="San_Marion_name">San Marion</string>
+    <string name="San_Marion_address">Al Ibrahimiya canal down the Faisal bridge</string>
+    <string name="Alfrdos_name">Alfrdos</string>
+    <string name="Alfrdos_address">Corniche El Nil, El Thawra, El Nasiria , El Fath Center, Assiut</string>
+    <string name="Dandy_Park_name">Dandy Park</string>
+    <string name="Dandy_Park_address">Corniche El Ibrahimeya,Assiut</string>
+    <string name="Armed_Forces_Club">Armed Forces Club</string>
+    <string name="Armed_Forces_Club_address">El Fath city ,Assiut</string>
+    <string name="DownTown_name">DownTown</string>
+    <string name="DownTown_address">Corniche El Nil ,Assiut</string>
+
+    <!--Restaurants-->
+    <string name="Resturants">Restaurants</string>
+    <string name="McDonald_name">McDonald\'s</string>
+    <string name="McDonald_address">El Gomhoria street in front of Al Wataniya tower ,Asyut</string>
+    <string name="Welatain_name">Welatain</string>
+    <string name="Welatain_address">Al Helaly street,Asyut</string>
+    <string name="KFC_name">KFC</string>
+    <string name="KFC_address">Corniche El Nil  El Thawra street, Assiut</string>
+    <string name="Pizza_Hut_name">Pizza Hut</string>
+    <string name="Pizza_Hut_address">Al Hamraa Ath Thaneyah, Markaz El-Fath,Assiut</string>
+    <string name="Basmatio_Chicken_name">Basmatio Chicken</string>
+    <string name="Basmatio_Chicken_address">Takseim El Betroul Street ,Asyut</string>
+    <string name="Cook_Door_name">Cook Door</string>
+    <string name="Cook_Door_address">Asma Allah Al Hassani Square,Al Qudah Towers</string>
+    <string name="Bahia_Resturant_name">Bahia Resturant</string>
+    <string name="Bahia_Resturant_address">in front of Al Qudah Towers ,Asyut</string>
+    <string name="Happy_Dolphin_name">Happy Dolphin</string>
+    <string name="Happy_Dolphin_address">Corniche El Nile St. in front of Al Saudyen towers,Asyut</string>
+    <string name="Bondoka_name">Bondoka</string>
+    <string name="Bondoka_address">92 Mohamed Ali Makarm Street, Assiut</string>
+    <string name="Momen_name">Momen</string>
+    <string name="Momen_address">Corniche El Nil ,El Thawra, Assiut</string>
+
+    <!--Historical Places-->
+    <string name="Historical_places">Historical places</string>
+    <string name="Alexan_Abaskhiron_Palace_name">Alexan Abaskhiron Palace</string>
+    <string name="Alexan_Abaskhiron_Palace_address">Alhmra ,Markaz El-Fath,Asyut</string>
+    <string name="Alexan_Abaskhiron_Palace_year">1902</string>
+    <string name="Mir_Monuments_name">Mir\'s Monuments</string>
+    <string name="Mir_Monuments_address">West of Mir village,Markaz Al Kocya , Asyut</string>
+    <string name="Mir_Monuments_year">2200 BC</string>
+    <string name="Saint_Mary_name">Saint Mary Coptic Orthodox Monastery</string>
+    <string name="Saint_Mary_address">Dronka\'s Mountain, on the Ghanayem road,Asyut</string>
+    <string name="Saint_Mary_year">2500 BC</string>
+    <string name="Assiut_Islamic_name">Assiut Islamic Scientific Institute</string>
+    <string name="Assiut_Islamic_address">Corniche El Nil, El Thawra, El Nasiria ,Markaz El Fath , Assiut</string>
+    <string name="Assiut_Islamic_year">1930</string>
+    <!--Hotels-->
+    <string name="Hotels">Hotels</string>
+    <string name="Cemex_name">Cemex Hotel</string>
+    <string name="Cemex_address">Kilo 18 , Al Wadi Al Gadid Road, Assuit</string>
+    <string name="Cemex_phone">088 2424200</string>
+    <string name="Opera_Hotel_name">Opera Hotel</string>
+    <string name="Opera_Hotel_address">Corniche El Nil, Nazlet El Asara, El Fath Center, Assiut </string>
+    <string name="Oper_Hotel_phon">0110 088 2226</string>
+    <string name="Tut_name">Hotel Partner Tut Assyout</string>
+    <string name="Tut_address">Corniche El Nil, Nazlet El Asara, El Fath Center, Assiut</string>
+    <string name="Tut_phone">0109 9937330</string>
+    <string name="ArmedForces_name">Assiut hotels Armed Forces</string>
+    <string name="ArmedForces_address">Fatih area , next to recruit armed forces , Assiu</string>
+    <string name="ArmedForces_phone">0109 114 3796</string>
+    <string name="assiutel_name">Assiutel</string>
+    <string name="assiutel_addess">146 El Nile street,Assiut</string>
+    <string name="assiutel_phone">088 2312121</string>
+
+
+    <string name="title_info">Information About Place</string>
+    <string name="alexa_palace_Info">
+     The owner of that palace is a normal man worked as a lawyer.
+He succeeded in building a luxurious palace 1902 construction continued until 1910.
+This history is engraved on the historical interface for the palace.
+
+     The palace covers an area of more than 8,000 square meters, with its own private garden.
+ King Farouk saw it during a Nile trip in Asyut governorate.
+He decided to get off the ship to inspect the palace.
+There are lots of novels about Alexan Palace ,but the most authentic is the host of Alexan to King Farouk and his wife Queen Farida.
+    
+    A special room was dedicated to Queen Farida,that happend during the Opening of King Fouad Institute of Fouad I religious in 1939 in Asyut.
+
+     During King Farouk\'s stay, he decided to give Alexan the title of Pashawia,\"From now , this palace has become the palace of Alexan Pasha,\" he said
+Referring to the magnificent design of the palace and its fine artistic.
+
+       Alexan begot nine children and all left the governorate ,leaving that unique architectural building with all its possessions.
+
+   Architectural style of the palace from the inside and outside .
+The palace consists of two floors,its fa�ade is decorated with beautiful italian decorations and paintings with semi-circular shapes decorated in the Greek style
+Artists from Italy, France and England participated in the construction of the palace,
+which gave the palace a variety of artistic ,cultural and aesthetic make the palace unique among the archaeological landmarks of Asyut.
+
+       The palace has several bedrooms ,travelers rooms .
+ Its rooms, such as the living room,  the reception and the lobby, contain hundreds of antiques, metal antiques, psychological minerals such as gold and silver, as well as a billiards hall.
+The rooms of the palace also have luxurious furniture made of priceless wood ,has been able to maintain its splendor despite the years .
+</string>
+    <string name="Mir_place_Info">
+        The modern village (Mir) dates back to 2200 BC.
+    This area includes a collection of tombs carved into the body of the mountain.
+These tombs for the Kings and princes of 14th district from the provinces of Upper Egypt and, known "Kes",and in Roman times, was known as "Kosai" and its idol was the god Hathor.
+During the beginning of the sixth family until the end of the twelfth family.
+
+        The kings choosed it to be the place for their tombs,and they painted on its walls many public life scenes of agriculture, industry, fishing and sport.
+It has a huge number of coffins, statues and beautiful paintings.
+
+        The tombs were divided into 5 groups
+    First group belongs to the kings of 6th family from the ancient state and it has 2 tombs:
+First one for Ne_Ang_Beby the second belongs to the smaller beby_Ang.
+
+       Second group belongs to Middle state
+First tomb for Og Hotib .
+Second for Sbeny the son of Og Hotib.
+Third tomb for Sbeny the son of Og Hotib the son of Sbeny .
+Fourth belongs to Og Hotib the son of Og Hotib .
+    </string>
+    <string name="Mary_menostry_Info">
+        Jesus came to Egypt when he was a child with his mother Mary and St. Joseph.
+The Holy Family left Palestine and headed towards Egypt,passing through Sina until they arrived to Cairo then they went to Upper Egypt to Asyut where is the cave the Holy Family stayed.
+Later the monastery of the Virgin Mary was erected next to it,which rises above this mountain overlooking the green valley stretching east to the Nile.
+
+       The arrival of the Holy Family to Mount Asyut in August.
+So the monastery organizes its religious celebrations annually from 7th August to 21th August each year.
+
+In the monastery there are a number of churches .The oldest is the Church of the Cave ,its length is 160 and its depth is 60,it is from the end of the first Christian century.
+
+    It is worth mentioning that the cave of this monastery return to 2500 BC.
+
+     The monastery has many buildings, large halls for religious and social services,general activities and rooms for hospitality and accommodation.</string>
+    <string name="fouad_instatue">
+        The "Assiut Islamic Scientific Institute" or as known "Fouad I Institute" was established following the visit of King Fouad to Assiut in 1930.
+It took four years to built and It was opened in 1934. Its area is more than 4 acres and surrounded by a fence length of 144 meters and 120 meters wide ,it has a garden with 3 buildings in the middle.
+Including an octagonal fountain composed of marble stones in a geometrical fashion.
+
+         The three buildings are the study section, the interior section and the mosque. The architecture of this institute is considered to be a revival of Islamic architecture in the first half of the twentieth century.
+you can see that in the semi-circular and triangular contracts, the arched balconies, the fountains and Minaret of the mosque with its prefict style.
+
+As soon as any visitors come to the institute �Fuad I� Azhari ,he feels that he has traveled through time and wander into a wonderful engineering masterpiece.
+    It embodies the splendor of Islamic architecture and art, designed in Andalusian architectural style.
+    </string>
+    <string name="title_activity_interst_places">Interst Places</string>
+    <string name="Stop">Stop</string>
+    <string name="Speak">Speak</string>
+</resources>
