@@ -89,25 +89,7 @@ public class InformationAboutPlace extends AppCompatActivity implements TextToSp
             }
             break;
         }
-        //by using ButterKnife library this code equivalent to b.setOnClickListener method
-
-//        @OnClick(R.id.textToSpeech)
-//        public void onTextToSpeech (View view){
-//            Bundle t = new Bundle();
-//            String utteranceId = this.hashCode() + "";
-//            t.putString(TextToSpeech.Engine.KEY_PARAM_UTTERANCE_ID, "");
-//            if (isClicked[0]) {
-//                tts.speak(info.getText().toString(), TextToSpeech.QUEUE_FLUSH, t, utteranceId);
-//                isClicked[0] = false;
-//                b.setText(getString(R.string.Stop));
-//            } else {
-//                tts.stop();
-//                isClicked[0] = true;
-//                b.setText(getString(R.string.Speak));
-//            }
-//        }
-
-
+      
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -160,4 +142,21 @@ public class InformationAboutPlace extends AppCompatActivity implements TextToSp
             Log.e("TTS", "initialization failed");
         }
     }
+     //by using ButterKnife library this code equivalent to b.setOnClickListener method
+
+//        @OnClick(R.id.textToSpeech)
+//        public void onTextToSpeech (View view){
+//            Bundle t = new Bundle();
+//            String utteranceId = this.hashCode() + "";
+//            t.putString(TextToSpeech.Engine.KEY_PARAM_UTTERANCE_ID, "");
+//            if (isClicked[0]) {
+//                tts.speak(info.getText().toString(), TextToSpeech.QUEUE_FLUSH, t, utteranceId);
+//                isClicked[0] = false;
+//                b.setText(getString(R.string.Stop));
+//            } else {
+//                tts.stop();
+//                isClicked[0] = true;
+//                b.setText(getString(R.string.Speak));
+//            }
+//        }
 }
