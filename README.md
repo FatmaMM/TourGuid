@@ -6,7 +6,6 @@ I will be making your own multi-screen Android app to share your knowledge about
 
 # What will I learn?
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
-
   1- Planning your app design and navigation before coding.
   2- Selecting proper data structures to store lists of information.
   3- Building layouts to display those lists of data.
