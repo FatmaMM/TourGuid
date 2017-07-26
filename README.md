@@ -13,6 +13,7 @@ This project is about combining various ideas and skills we’ve been practicing
     4- Navigating between those lists using intents and multiple Activities or a ViewPager.
     5- Creating your own custom classes.
     6- Properly handling images or audio (if applicable).
+ # project will be evaluated using the [Tour Guide App project rubric](https://review.udacity.com/#!/rubrics/161/view).
 # Screenshots
 ![1](https://cloud.githubusercontent.com/assets/28901635/26429521/a15f97d8-40e7-11e7-839f-e9d04d4e5665.JPG)
 ![2](https://cloud.githubusercontent.com/assets/28901635/26429523/a163db0e-40e7-11e7-9727-9eeb75aa31f1.JPG)
